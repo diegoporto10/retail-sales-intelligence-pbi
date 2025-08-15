@@ -1,6 +1,15 @@
 # retail-sales-intelligence-pbi
 Executive Power BI dashboard tracking revenue, margin and holiday sales.
 
+[![Download PBIX](https://img.shields.io/badge/Download-PBIX-1f6feb?logo=powerbi&logoColor=white)](https://github.com/diegoporto10/retail-sales-intelligence-pbi/raw/main/Retail%20Sales%20Intelligence.pbix)
+[![Case Study](https://img.shields.io/badge/Read-Case%20Study-6a5cff)](docs/case-study.md)
+
+**Live thumbnails**
+
+<img src="images/executive-overview.png" width="320" alt="Executive overview"> 
+<img src="images/monthly-trend.png" width="320" alt="Monthly trend"> 
+<img src="images/profitability.png" width="320" alt="Profitability">
+
 
 ## Retail Sales Intelligence — Power BI
 
